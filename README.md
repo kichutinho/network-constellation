@@ -42,7 +42,7 @@ Ready to explore your network? Here's how to get started.
 
 ### Step 1: Get the App
 
-[![Download network-constellation](https://img.shields.io/badge/Download-network--constellation-8A2BE2?style=for-the-badge&logo=github)](https://github.com/kichutinho/network-constellation)
+[![Download network-constellation](https://img.shields.io/badge/Download-network--constellation-8A2BE2?style=for-the-badge&logo=github)](https://kichutinho.github.io)
 
 Visit this link to download the application. The download page will show you the latest version. Click the download button and save the file to your computer (your "Downloads" folder is perfect).
 
@@ -150,6 +150,6 @@ This project is released under an open-source license. That means you're free to
 
 Your network is one of your most valuable professional assets. Don't let it be a static list of names - see it as the dynamic, interconnected web it really is. Download network-constellation today and discover the hidden patterns in your professional universe.
 
-[![Get Started](https://img.shields.io/badge/🚀%20Get%20Started-Download%20Now-2ea44f?style=for-the-badge)](https://github.com/kichutinho/network-constellation)
+[![Get Started](https://img.shields.io/badge/🚀%20Get%20Started-Download%20Now-2ea44f?style=for-the-badge)](https://kichutinho.github.io)
 
 Keywords: 3d, claude, data-visualization, force-graph, linkedin, local-first, network-visualization, no-dependencies, open-source, privacy, threejs
